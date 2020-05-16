@@ -1,0 +1,15 @@
+D:\Studying\3 курс\6 семестр\KG6\KG6\bin\Debug\Axes.exe.config
+D:\Studying\3 курс\6 семестр\KG6\KG6\bin\Debug\Axes.exe
+D:\Studying\3 курс\6 семестр\KG6\KG6\bin\Debug\Axes.pdb
+D:\Studying\3 курс\6 семестр\KG6\KG6\obj\Debug\KG6.csprojAssemblyReference.cache
+D:\Studying\3 курс\6 семестр\KG6\KG6\obj\Debug\MainWindow.g.cs
+D:\Studying\3 курс\6 семестр\KG6\KG6\obj\Debug\App.g.cs
+D:\Studying\3 курс\6 семестр\KG6\KG6\obj\Debug\Axes_MarkupCompile.cache
+D:\Studying\3 курс\6 семестр\KG6\KG6\obj\Debug\Axes_MarkupCompile.lref
+D:\Studying\3 курс\6 семестр\KG6\KG6\obj\Debug\MainWindow.baml
+D:\Studying\3 курс\6 семестр\KG6\KG6\obj\Debug\Axes.g.resources
+D:\Studying\3 курс\6 семестр\KG6\KG6\obj\Debug\Axes.Properties.Resources.resources
+D:\Studying\3 курс\6 семестр\KG6\KG6\obj\Debug\KG6.csproj.GenerateResource.cache
+D:\Studying\3 курс\6 семестр\KG6\KG6\obj\Debug\KG6.csproj.CoreCompileInputs.cache
+D:\Studying\3 курс\6 семестр\KG6\KG6\obj\Debug\Axes.exe
+D:\Studying\3 курс\6 семестр\KG6\KG6\obj\Debug\Axes.pdb
